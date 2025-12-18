@@ -5,8 +5,7 @@ const Stats: React.FC = () => {
   const stats = [
     { label: 'ML & Data Projects', value: '10+' },
     { label: 'End-to-End Pipelines', value: '5+' },
-    { label: 'Dashboards Built', value: '12' },
-    { label: 'Graduating Year', value: '2025' },
+    { label: 'Graduating Year', value: '2026' },
   ];
 
   return (
