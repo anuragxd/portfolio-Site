@@ -33,7 +33,7 @@ const Navbar: React.FC = () => {
 
           <div>
             <a
-              href="public\DS_RESUME.pdf"
+              href="\DS_RESUME.pdf"
               download
               className="bg-brand-green text-black px-6 py-2.5 rounded-full font-semibold text-sm hover:brightness-110 transition-all hover:scale-105 inline-block">
               Download Resume
